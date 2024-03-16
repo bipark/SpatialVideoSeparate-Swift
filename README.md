@@ -4,11 +4,12 @@ Separating right and left images in spatial video
 
 ## Introduction
 
-Spatial Video is a 3D video supported by the iPhone 15 Pro and 15 Pro Max. If you have an iPhone 15 Pro or a Mac, you can create Spatial Video. However, this video can only be played on Apple Vision Pro and Oculus.
+Spatial Video is a 3D video supported by the iPhone 15 Pro and 15 Pro Max. If you have an iPhone 15 Pro or a Max, you can create Spatial Video. However, this video can only be played on Apple Vision Pro and Oculus.
 
 The basic principle of Spatial Video is a method that utilizes the difference in vision between both eyes, so you can watch 3D videos in a regular video player by using 3D glasses that you are already using.
 
-In this project, we will implement the basic function of separating the left eye image and the right eye image in Spatial Video so that we can utilize the images.
+In this project, I implement the basic functionality to separate the left-eye image and the right-eye image in Spatial Video, providing the basic functionality to utilize the images.
+
 
 ## App 
 
@@ -27,6 +28,10 @@ You can download the app to create Anaglyph 3D, CardBoard 3D by separating Spati
 - AVFoundation
 - AVKit
 - iOS 17.2+
+
+## Blog
+
+
 
 ## License
 
