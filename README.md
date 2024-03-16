@@ -31,7 +31,7 @@ You can download the app to create Anaglyph 3D, CardBoard 3D by separating Spati
 
 ## Blog
 
-
+[http://practical.kr/?p=768](http://practical.kr/?p=768)
 
 ## License
 
