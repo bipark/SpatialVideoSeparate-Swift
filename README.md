@@ -33,6 +33,10 @@ You can download the app to create Anaglyph 3D, CardBoard 3D by separating Spati
 
 [http://practical.kr/?p=768](http://practical.kr/?p=768)
 
+## Contact
+
+- billy park - [rtlink.park@gmail.com](rtlink.park@gmail.com)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
